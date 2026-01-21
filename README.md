@@ -89,6 +89,59 @@ The deployed Streamlit app includes:
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
+
+```text
+shopper_spectrum/
+│
+├── app.py                     # Streamlit application
+├── requirements.txt           # Project dependencies
+├── README.md                  # Project documentation
+│
+├── data/
+│   ├── online_retail.csv
+│   └── cleaned_online_retail.csv
+│
+├── notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_preprocessing.ipynb
+│   ├── 03_eda.ipynb
+│   ├── 04_rfm_clustering.ipynb
+│   └── 05_recommendation_system.ipynb
+│
+├── models/
+│   └── rfm_kmeans.pkl
+│
+└──.gitignore
+```
+
+## ⚙️ Technologies Used
+
+- **Python**
+- **Pandas, NumPy**
+- **Matplotlib, Seaborn**
+- **Scikit-learn**
+- **Plotly**
+- **Streamlit**
+- **Git & GitHub**
+
+---
+
+## 👤 Author
+
+**Prajwal**  
+📧 Email: prajjuprajwal617@gmail.com  
+🔗 GitHub: https://github.com/prajwall20  
+
+---
+
+## © Copyright
+
+© 2026 Prajwal. All rights reserved.
+
+This project is created for **educational and portfolio purposes**.  
+You are free to **view, fork, and reference** this project with proper attribution.
+
+Unauthorized commercial use or redistribution without permission is prohibited.
 
 
