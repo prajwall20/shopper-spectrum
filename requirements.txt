@@ -1,9 +1,13 @@
+streamlit==1.19.0
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
 scipy
-streamlit
 joblib
 plotly
+matplotlib
+seaborn
+
+# Fix for Streamlit + Altair incompatibility
+altair<5
+
