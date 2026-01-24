@@ -1,7 +1,8 @@
 # 🛒 Shopper Spectrum  
 ### Customer Segmentation & Product Recommendation System
 
-🔗 **Live App**: https://shopper-spectrum-online.streamlit.app/ 
+🔗 **Live App**: https://shopper-spectrum-online.streamlit.app/
+
 🔗 **GitHub Repository**: https://github.com/prajwall20/shopper-spectrum  
 
 ---
